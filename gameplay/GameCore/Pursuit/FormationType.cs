@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace GameCore.Pursuit
+{
+	// Token: 0x02000082 RID: 130
+	public enum FormationType
+	{
+		// Token: 0x040000F5 RID: 245
+		PIT = 1,
+		// Token: 0x040000F6 RID: 246
+		BOX_IN,
+		// Token: 0x040000F7 RID: 247
+		ROLLING_BLOCK,
+		// Token: 0x040000F8 RID: 248
+		FOLLOW,
+		// Token: 0x040000F9 RID: 249
+		HELI_PURSUIT,
+		// Token: 0x040000FA RID: 250
+		HERD,
+		// Token: 0x040000FB RID: 251
+		ROLLING_BLOCK_LARGE,
+		// Token: 0x040000FC RID: 252
+		CHASE_UP_FRONT,
+		// Token: 0x040000FD RID: 253
+		CHASE_DIAGONAL,
+		// Token: 0x040000FE RID: 254
+		CHASE_RIGHT_TRIANGLE,
+		// Token: 0x040000FF RID: 255
+		CHASE_TRIANGLE,
+		// Token: 0x04000100 RID: 256
+		CHASE_REVERSE_TRIANGLE,
+		// Token: 0x04000101 RID: 257
+		REAR_RAM,
+		// Token: 0x04000102 RID: 258
+		SIDE_RAM,
+		// Token: 0x04000103 RID: 259
+		FRONT_RAM
+	}
+}

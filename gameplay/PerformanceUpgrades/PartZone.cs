@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace PerformanceUpgrades
+{
+	// Token: 0x020000E3 RID: 227
+	public enum PartZone
+	{
+		// Token: 0x04000181 RID: 385
+		PERFSLOT_ENGINE,
+		// Token: 0x04000182 RID: 386
+		PERFSLOT_FORCED_INDUCTION,
+		// Token: 0x04000183 RID: 387
+		PERFSLOT_TRANSMISSION,
+		// Token: 0x04000184 RID: 388
+		PERFSLOT_SUSPENSION,
+		// Token: 0x04000185 RID: 389
+		PERFSLOT_BRAKES,
+		// Token: 0x04000186 RID: 390
+		PERFSLOT_TIRES,
+		// Token: 0x04000187 RID: 391
+		PERFSLOT_MISC
+	}
+}

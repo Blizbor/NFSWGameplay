@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000102 RID: 258
+public enum GearID
+{
+	// Token: 0x0400021F RID: 543
+	G_REVERSE,
+	// Token: 0x04000220 RID: 544
+	G_NEUTRAL,
+	// Token: 0x04000221 RID: 545
+	G_FIRST,
+	// Token: 0x04000222 RID: 546
+	G_SECOND,
+	// Token: 0x04000223 RID: 547
+	G_THIRD,
+	// Token: 0x04000224 RID: 548
+	G_FOURTH,
+	// Token: 0x04000225 RID: 549
+	G_FIFTH,
+	// Token: 0x04000226 RID: 550
+	G_SIXTH,
+	// Token: 0x04000227 RID: 551
+	G_SEVENTH,
+	// Token: 0x04000228 RID: 552
+	G_EIGHTH,
+	// Token: 0x04000229 RID: 553
+	G_MAX
+}

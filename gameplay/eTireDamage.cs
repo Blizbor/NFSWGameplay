@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x02000105 RID: 261
+public enum eTireDamage
+{
+	// Token: 0x04000237 RID: 567
+	TIRE_DAMAGE_NONE,
+	// Token: 0x04000238 RID: 568
+	TIRE_DAMAGE_PUNCTURED,
+	// Token: 0x04000239 RID: 569
+	TIRE_DAMAGE_BLOWN
+}

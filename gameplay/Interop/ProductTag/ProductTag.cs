@@ -1,0 +1,49 @@
+﻿using System;
+
+namespace Interop.ProductTag
+{
+	// Token: 0x020000DF RID: 223
+	public enum ProductTag
+	{
+		// Token: 0x04000144 RID: 324
+		NONE,
+		// Token: 0x04000145 RID: 325
+		LIMITED_EDITION,
+		// Token: 0x04000146 RID: 326
+		TIME_LIMITED_OFFER,
+		// Token: 0x04000147 RID: 327
+		SPECIAL_OFFER,
+		// Token: 0x04000148 RID: 328
+		REDUCED_PRICE,
+		// Token: 0x04000149 RID: 329
+		ON_SALE,
+		// Token: 0x0400014A RID: 330
+		BUY_AND_SAVE,
+		// Token: 0x0400014B RID: 331
+		NEW,
+		// Token: 0x0400014C RID: 332
+		NEW_COLORWAY,
+		// Token: 0x0400014D RID: 333
+		NEW_CAR,
+		// Token: 0x0400014E RID: 334
+		NEW_CLASS,
+		// Token: 0x0400014F RID: 335
+		HOT_ITEM,
+		// Token: 0x04000150 RID: 336
+		FEATURED_ITEM,
+		// Token: 0x04000151 RID: 337
+		BEST_VALUE,
+		// Token: 0x04000152 RID: 338
+		BUNDLE_OFFER,
+		// Token: 0x04000153 RID: 339
+		VALUE_BUNDLE,
+		// Token: 0x04000154 RID: 340
+		PRO_BUNDLE,
+		// Token: 0x04000155 RID: 341
+		BACK_BY_POPULAR_DEMAND,
+		// Token: 0x04000156 RID: 342
+		GIFT,
+		// Token: 0x04000157 RID: 343
+		ITEM_COUNT
+	}
+}
